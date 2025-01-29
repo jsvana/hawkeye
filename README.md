@@ -224,7 +224,7 @@ allowBlankLines = false
 # A style that is not multi-line is usually repeating in each line the characters before and after each line
 # to delimit a one-line comment.
 #
-# Defaulut to true.
+# Default to true.
 multipleLines = true
 
 # Only for non multi-line comments: specify if some spaces should be added after the header line and before
